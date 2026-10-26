@@ -1,0 +1,6 @@
+{
+  "name": "Guide You AI",
+  "description": "Automated project review schedule system with AI module generation, Google Meet coordination, interactive review evaluations, and recursive progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
